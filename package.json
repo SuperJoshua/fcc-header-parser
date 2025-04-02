@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-project-headerparser#readme",
   "author": "freeCodeCamp <team@freecodecamp.org>",
+  "student": "joshua",
   "keywords": [
     "freeCodeCamp",
     "node",
